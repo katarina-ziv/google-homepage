@@ -1,0 +1,1 @@
+This is my first day of actually using git and github. I'm doing this for The Odin Project's Web Development 101 course. I'm actually studying CS but I feel like I miss a lot of stuff. So I wanna do as much project as I can, as I feel that's the only way I can learn. I feel so overwhelmed and ignorant, but I guess that's what programming is like.
