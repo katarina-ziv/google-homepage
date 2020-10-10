@@ -1,0 +1,159 @@
+body,html{
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 0;
+}
+
+.container{
+    justify-content: center;
+    
+}
+
+.header{
+    float:right;
+    padding: 0px 30px;
+    margin:10px;
+
+}
+.header a{
+    top:0;
+    left: 0;
+    right:0;
+    padding: 0 0 0 15px;
+    font-size: 13px;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+.header img{
+    width:23px;
+    height: 23px;
+}
+
+.header #user{
+    width:33px;
+    height: 32px;
+}
+
+.logo{
+    width:100%;
+    margin:0px;
+    text-align: center;
+    display: inline-block;
+    padding-top:109px;
+    padding-bottom:30px;
+}
+
+.search{
+    width:100%;
+    margin:0px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+.searchBar{
+    border-radius: 40px;
+    border:1px solid rgba(0, 0, 0, 0.151);
+    width:520px;
+    height: 35px;
+    margin:auto;
+    padding:3px 8px 0 14px;
+}
+.searchBar:hover{
+    box-shadow: 0 4px 10px -2px #9c9c9c;
+}
+
+.searchBar input{
+    border: none;
+    width: 460px;
+    height: 30px;
+}
+.searchBar input:hover,.searchBar input:focus{
+    outline: none;
+}
+
+.searchBar img{
+    width: 19px;
+    height: 19px;
+    padding-top: 4px;
+    padding-left:-2px;
+
+}
+.micImg{
+    width: 14px!important;
+}
+
+
+.buttons{
+    padding-top:10px;
+    }
+
+.buttons button{
+    background-color: #f2f2f2;
+    border:1px solid #f2f2f2;
+    color:#5F6368;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    height: 36px;
+    min-width: 54px;
+}
+
+.offeredIn{
+    display: block;
+    text-align: center;
+}
+.offeredIn p{
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    font-weight: 200;
+}
+
+.offeredIn a{
+    color: #1a0dab !important;
+    text-decoration: none;
+    padding: 0 3px;
+}
+
+.footer{
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    background-color: rgba(242, 242,242, 1);
+    color:rgba(0,0,0,.54);
+    
+}
+
+#footerTop,#footerBottom{
+    border-top: 1px solid #e4e4e4;
+    text-align: left;
+    font-size: 14px;
+    line-height: 40px;
+}
+
+#footerTop span{
+    padding-left:27px;
+}
+
+#footerBottom a{
+    text-decoration: none;
+    color:rgba(0,0,0,.54);
+    padding-left:27px;
+    padding-right: 10px;
+}
+
+.links-right{
+    float: right !important;
+    
+}
+
